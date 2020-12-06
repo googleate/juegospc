@@ -81,11 +81,8 @@ link = "plugins/search/search.js"
 icon = "ti-facebook"
 url = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "ti-instagram-alt"
 url = "#"
 [[params.social]]
 icon = "ti-linkedin"
-url = "#"
-[[params.social]]
-icon = "ti-github"
 url = "#"
