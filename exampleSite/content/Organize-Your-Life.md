@@ -56,6 +56,6 @@ Viaja por las costas de Gran Bretaña a bordo de un barco vikingo
 
 Descubre los secretos de los precursores y continúa tu lucha contra Abstergo en los segmentos de la actualidad.
 
-**Trailer de Gameplay** 
+**Trailer de Gameplay en Español**
 
 [![](/images/juegos-pc-valhalla3-1.jpg)]()
