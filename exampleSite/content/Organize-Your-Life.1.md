@@ -1,5 +1,5 @@
 ---
-title: Red Dead Redemption II 39,99€
+title: Red Dead Redemption II 36,99€
 date: 
 description: Red Dead Redemption 2 para Juegos PC baratos clave original global para
   la plataforma Rockstar Games
@@ -26,7 +26,7 @@ La acción tiene lugar en 1899 en las partes occidental, meridional y del medio 
 
 > Plataforma: Rockstar Games
 >
-> **Precio: 39,99€**
+> **Precio: 36,99€**
 >
 > Región: Todo el mundo
 >
