@@ -23,7 +23,13 @@ tags:
 - rpg
 
 ---
+![](/images/pedir-boton-1.png)
+
 Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto desarrollado por Ubisoft Montreal y publicado por Ubisoft en 2020. Es el duodécimo juego principal de la serie AC y el tercero que presenta la nueva mecánica de juego de Ac: Origins, una malla de acción. y elementos de RPG. El juego se desarrolla durante la época de la invasión vikinga de Gran Bretaña. El jugador toma el control de Eivor, líder de un clan vikingo, que busca refugio en las costas orientales de Inglaterra.
+
+Ambientado durante la época de la conquista vikinga de Gran Bretaña, el juego presenta varias mecánicas de juego nuevas, así como algunas de las entregas anteriores de la serie. El título recibió una recepción inicial positiva, principalmente de su intrigante escenario y protagonista.
+
+El juego introduce varias mecánicas de juego nuevas, así como restablece las vistas en juegos anteriores de Assassin's Creed, como asesinatos letales con cuchillas ocultas, gestión de asentamientos, etc. El título fue anunciado con una respuesta mayoritariamente positiva de los críticos.
 
 > Plataforma: Ubisoft Connect key
 >
@@ -36,10 +42,6 @@ Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto des
 > Copia Digital del juego Original
 
 ![](/images/juegos-pc-valhalla.jpg)
-
-Ambientado durante la época de la conquista vikinga de Gran Bretaña, el juego presenta varias mecánicas de juego nuevas, así como algunas de las entregas anteriores de la serie. El título recibió una recepción inicial positiva, principalmente de su intrigante escenario y protagonista.
-
-El juego introduce varias mecánicas de juego nuevas, así como restablece las vistas en juegos anteriores de Assassin's Creed, como asesinatos letales con cuchillas ocultas, gestión de asentamientos, etc. El título fue anunciado con una respuesta mayoritariamente positiva de los críticos.
 
 **La saga de Eivor - Historia**
 
