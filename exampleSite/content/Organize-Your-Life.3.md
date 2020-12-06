@@ -5,7 +5,6 @@ description: 'Godfall juego de RPG y aventura para PC '
 type: featured
 image: "/images/juegos-pc-godfall-post.jpg"
 categories:
-- Aventura
 - RPG
 tags:
 - godfall
