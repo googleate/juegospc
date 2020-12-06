@@ -6,17 +6,22 @@ theme = "parsa-hugo"
 title = "Juegos PC baratos"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
-url = ""
+name = "Categorías"
+url = "https://juegospcbaratos.com/categories/"
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
+name = "Acción"
 parent = "Homepage"
-url = "homepage/home-1"
+url = "https://juegospcbaratos.com/categories/acci%C3%B3n/"
 [[menu.main]]
-name = "Homepage 2"
+name = "Aventura"
 parent = "Homepage"
-url = "homepage/home-2"
+url = "https://juegospcbaratos.com/categories/aventura/"
+[[menu.main]]
+hasChildren = ""
+name = "RPG"
+url = "https://juegospcbaratos.com/categories/rpg/"
+weight = ""
 [[menu.main]]
 name = "About"
 url = "about"
@@ -42,7 +47,7 @@ layout = "1"
 logo = "images/logo.png"
 mobile = "+34 663010971"
 preloader = false
-search = true
+search = false
 [params.cookies]
 enable = false
 expire_days = 2
