@@ -72,14 +72,6 @@ Ten cuidado al cometer delitos, ya que cuando alguien lo ves, inmediatamente lo 
 
 **Red Dead Redemption 2** recibió elogios universales por su completo mundo, impresionantes audiovisuales, una gran cantidad de interacciones, su historia y muchas de sus sofisticadas mecánicas.
 
-## Key features
-
-* Experimenta un juego ambientado en un tema del Salvaje Oeste;
-* Disfruta de una gran cantidad de detalles realistas del mundo y en los personajes;
-* Sumérgete en los impresionantes aspectos audiovisuales del juego;
-* Explora el mundo abierto y todas sus historias;
-* Dirige a tu personaje a través de la historia y toma decisiones durante tu aventura.
-
 ### Requisitos mínimos
 
 * ProcessorIntel® Core™ i5-2500K / AMD FX-6300
@@ -96,6 +88,6 @@ Ten cuidado al cometer delitos, ya que cuando alguien lo ves, inmediatamente lo 
 * Disk space150 GB available space
 * SystemWindows 10 - April 2018 Update (v1803)
 
-## Idiomas
+### Idiomas
 
 UK, DE, ES, IT, FR, PL, RU
