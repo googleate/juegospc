@@ -4,9 +4,10 @@ date:
 description: Assassins Creed Valhalla copia digital para juegos de PC baratos Uplay
   Europa
 type: featured
-image: images/featured-post/post-1.jpg
+image: "/images/juegos-pc-valhalla-post.jpg"
 categories:
-- Valuable Idea
+- RPG
+- Aventura
 tags:
 - Assassins
 - Creed
