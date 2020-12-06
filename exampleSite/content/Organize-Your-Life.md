@@ -1,8 +1,8 @@
 ---
-title: Assasins Creed Valhalla Standard Edition 48€
+title: Assasins Creed Valhalla Standard Edition 48,99€
 date: 
-description: Assassins Creed Valhalla copia digital para juegos de PC baratos Uplay
-  Europa
+description: Assassins Creed Valhalla copia digital para juegos de PC baratos Ubisoft
+  connect Europa
 type: featured
 image: "/images/juegos-pc-valhalla-post.jpg"
 categories:
@@ -25,6 +25,16 @@ tags:
 
 ---
 Assassin's Creed Valhalla es un juego de acción y aventura de mundo abierto desarrollado por Ubisoft Montreal y publicado por Ubisoft en 2020. Es el duodécimo juego principal de la serie AC y el tercero que presenta la nueva mecánica de juego de Ac: Origins, una malla de acción. y elementos de RPG. El juego se desarrolla durante la época de la invasión vikinga de Gran Bretaña. El jugador toma el control de Eivor, líder de un clan vikingo, que busca refugio en las costas orientales de Inglaterra.
+
+> Plataforma: Ubisoft Connect key
+>
+> **Precio: 48,99€**
+>
+> País: España
+>
+> Dispositivo: PC Europa
+>
+> Copia Digital del juego Original
 
 ![](/images/juegos-pc-valhalla.jpg)
 
