@@ -11,14 +11,24 @@ tags: []
 ---
 ![](/images/pedir-boton-1.png)
 
-Es un juego de acción, un shooter en cooperativo hasta cuatro jugadores que una vez más permite a los jugadores ponerse las máscaras de la tripulación **PAYDAY**- Dallas, Hoxton, Wolf y Chains- a medida que generan una ola de crímenes épicos en Washington DC.  
-  
+Es un juego de acción, un shooter en cooperativo hasta cuatro jugadores que una vez más permite a los jugadores ponerse las máscaras de la tripulación **PAYDAY**- Dallas, Hoxton, Wolf y Chains- a medida que generan una ola de crímenes épicos en Washington DC.
+
 La nueva red CRIMENET ofrece una amplia gama de contratos dinámicos y los jugadores son libres de elegir cualquier actividad, desde atracar una tienda de pocamonta o secuestrar a las Grandes ligas del delito cibernético o vaciar cámaras de grandes entidades bancarias.
 
-![](/images/juegos-pc-payday21.jpg)  
-  
-Ya que estáis en D.C., ¿por qué no participar en la comunidad local y tocar unos cuantos contactos políticos?  
-  
+> Plataforma: Steam
+>
+> **Precio: 1,99€**
+>
+> Región: Global
+>
+> Dispositivo: PC
+>
+> Copia Digital del juego Original
+
+![](/images/juegos-pc-payday21.jpg)
+
+Ya que estáis en D.C., ¿por qué no participar en la comunidad local y tocar unos cuantos contactos políticos?
+
 A la vez que ganas más y más dinero y te conviertes en un criminal legendario disfrutas de una mayor personalización de tu personaje y de un novedoso sistema que permite a los equipos crear y personalizar sus propias armas y equipación.
 
 ### Puntos clave
