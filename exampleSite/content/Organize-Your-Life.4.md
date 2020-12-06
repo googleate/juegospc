@@ -18,6 +18,16 @@ Dead by Daylight (PC) es un juego multijugador de supervivencia y terror asimét
 
 La versión inicial de Dead by Daylight cuenta la historia de cinco personas que de golpe están en un mundo de pesadilla, donde se ven obligadas a huir de monstruos asesinos. Dwight Fairfield, Meg Thomas, Jake Park, Claudette Morel y Nea Karlsson son personas con historias distintas y talentos variados, pero tienen en común ser parte de un juego perverso ideado por una entidad malévola.
 
+> Plataforma: Steam
+>
+> **Precio: 9,99€**
+>
+> Región: Todo el mundo
+>
+> Dispositivo: PC
+>
+> Copia Digital del juego Original
+
 **Cuatro asesinos**
 
 Para contrarrestar al grupo de personajes supervivientes, el juego principal ofrece a un jugador valiente una selección de cuatro asesinos. The Trapper, con la habilidad de dañar y frenar a las víctimas con trampas, El Espectro invisible, La Enfermera telépata y finalmente HillBilly, con su moto sierra y su terrible martillo.Cada uno de ellos sigue el clásico perfil de psicópata asesino, y tiene su propia manera de encontrar y matar a sus víctimas. ¿Cuál de los asesinos se adapta mejor a tu estilo de juego? Descúbrelo por ti mismo.
