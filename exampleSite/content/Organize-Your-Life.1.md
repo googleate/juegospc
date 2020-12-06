@@ -1,5 +1,5 @@
 ---
-title: Red Dead Redemption 2 (PC) - Rockstar Key - GLOBAL- Español
+title: Red Dead Redemption 2 39,99€
 date: 
 description: Red Dead Redemption 2 para Juegos PC baratos clave original global para
   la plataforma Rockstar Games
