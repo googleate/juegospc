@@ -1,5 +1,5 @@
 ---
-title: Overwatch 18,99€
+title: Overwatch 14,99€
 date: 
 description: Juegos PC baratos Overwatch para plataforma Battlenet de Blizzard
 type: featured
@@ -19,7 +19,7 @@ El principal punto de venta de **Overwatch** se centra en su juego. El juego es 
 
 > Plataforma: Battlenet
 >
-> **Precio: 18,99€**
+> **Precio: 14,99€**
 >
 > Región: Todo el mundo
 >
