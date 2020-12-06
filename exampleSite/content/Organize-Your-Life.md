@@ -1,5 +1,5 @@
 ---
-title: Assasins Creed Valhalla Standard Edition 48,99€
+title: Assassin's Creed Valhalla Standard Edition 48,99€
 date: 
 description: Assassins Creed Valhalla copia digital para juegos de PC baratos Ubisoft
   connect Europa
