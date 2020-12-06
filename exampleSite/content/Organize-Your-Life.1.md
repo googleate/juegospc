@@ -20,6 +20,16 @@ tags:
 
 **Red Dead Redemption 2** es un juego de acción y aventura que fue lanzado para Xbox One y PlayStation 4, y que desde 2019 también está disponible para PC. El juego es una precuela de Red Dead Redemption lanzado en 2010 y se centra en la vida del forajido Arthur Morgan. Adéntrate en el juego y experimenta un mundo verdaderamente masivo con una cantidad asombrosa de actividades, interacciones, imágenes hermosas y mucho más. Si alguna vez jugaste a la primera entrega de RDR, es posible que encuentres una serie de referencias en los personajes y eventos de este juego.
 
+> Plataforma: Rockstar Games
+>
+> **Precio: 39,99€**
+>
+> Región: Todo el mundo
+>
+> Dispositivo: PC 
+>
+> Copia Digital del juego Original
+
 ### La historia
 
 La acción tiene lugar en 1899 en las partes occidental, meridional y del medio oeste de los Estados Unidos, donde tú, como jugador, tomas el papel de **Arthur Morgan**, miembro de la pandilla Van der Linde. Arthur debe enfrentarse a diversas dificultades, como el declive de la cultura y el estilo de vida del salvaje oeste; luchar contra el gobierno que quiere deshacerse del último baluarte de la cultura del salvaje oeste y luchar contra otros adversarios de diferentes pandillas.
