@@ -58,4 +58,4 @@ Descubre los secretos de los precursores y continúa tu lucha contra Abstergo en
 
 **Trailer de Gameplay en Español**
 
-[![](/images/juegos-pc-valhalla3-1.jpg)]()
+[![](/images/juegos-pc-valhalla3-1.jpg)](https://www.youtube.com/watch?v=NsfXjarFUHE "Trailer")
