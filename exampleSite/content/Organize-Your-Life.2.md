@@ -35,7 +35,7 @@ El principal punto de venta de **Overwatch** se centra en su juego. El juego es 
 
 Cada uno de los héroes posee una habilidad principal y al menos dos habilidades adicionales, algunas de las cuales requieren un tiempo de reutilización. Aparte de eso, durante la partida, los jugadores desarrollan las habilidades especiales de sus personajes. Estas incluyen efectos duraderos como el aumento de la velocidad o la fuerza, o un ataque poderoso único. Los jugadores enemigos son alertados sobre el personaje usando su habilidad especial por una fuerte exclamación que hacen. Eso puede darles a los oponentes tiempo para responder de acuerdo con un golpe de entrada.
 
-![héroes adicionales overwatch](https://images.g2a.com/newlayout/880x400/1x1x0/257b409bc2ee/5d1316f846177c4b571a7d42 =100%x)
+[![](/images/juegos-pc-baratos-overwatch.jpg)](https://www.youtube.com/watch?v=dushZybUYnM "Trailer")
 
 Hay varios tipos de misiones en Overwatch que funcionan como modos de juego e incluyen:
 
