@@ -15,6 +15,16 @@ Los juegos con RPG te permiten asumir el rol que deseas y crear un personaje que
 
 Eres parte de una profecía, sobre el regreso de Nordic God of Destruction, el poderoso dragón conocido como Alduin. Antes de tu ejecución, Alduin ataca a Helgen, convirtiéndolo en polvo. Ahora eres libre. Depende de ti, lo que va a pasar a continuación. Tienes la profecía, sabes que Alduin es tu enemigo y debes derrotarlo. Sin embargo, el juego no requiere que hagas eso. Es un juego de rol, por lo que depende completamente de ti lo que vas a hacer. Forma tu propia historia y viaja a través del enorme mundo abierto. Hay tantos secretos que encontrarás aquí, que Skyrim te mantendrá enganchado durante muchas horas.
 
+> Plataforma: Steam
+>
+> **Precio: 9,99€**
+>
+> Región: Global
+>
+> Dispositivo: PC
+>
+> Copia Digital del juego Original
+
 ![](/images/juegos-pc-baratos-skyrim.jpg)
 
 ### The Elder Scrolls V: Skyrim Special Edition es un remaster perfecto
