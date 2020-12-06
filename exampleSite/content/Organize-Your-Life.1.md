@@ -89,7 +89,4 @@ Ten cuidado al cometer delitos, ya que cuando alguien lo ves, inmediatamente lo 
 * Memory12 GB RAM
 * Disk space150 GB available space
 * SystemWindows 10 - April 2018 Update (v1803)
-
-### Idiomas
-
-UK, DE, ES, IT, FR, PL, RU
+* 
