@@ -5,32 +5,31 @@ summaryLength = "12"
 theme = "parsa-hugo"
 title = "Juegos PC baratos"
 [[menu.main]]
-name = "Contacto"
-url = "contact"
-weight = 3
+hasChildren = true
+name = "Homepage"
+url = ""
+weight = 1
 [[menu.main]]
-name = "Ofertas"
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1"
+[[menu.main]]
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2"
+[[menu.main]]
+name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Aventura"
-parent = "Juegos"
-url = "https://juegospcbaratos.com/categories/aventura"
-weight = 2
-[[menu.main]]
-name = "Acción"
-parent = "Juegos"
-url = "https://juegospcbaratos.com/categories/acci%C3%B3n/"
-weight = 1
-[[menu.main]]
-hasChildren = true
-name = "Juegos"
-weight = 1
+name = "Contact"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Av Jose Manuel Valles 19, Marbella, España"
-author = "Googleate.es"
+author = ""
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
