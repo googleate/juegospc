@@ -30,11 +30,11 @@ La acción tiene lugar en 1899 en las partes occidental, meridional y del medio 
 >
 > Región: Todo el mundo
 >
-> Dispositivo: PC 
+> Dispositivo: PC
 >
 > Copia Digital del juego Original
 
-![Arthur Morgan in RDR 2](https://images.g2a.com/newlayout/880x400/1x1x0/005395336790/5dc417837e696c2f7f084722)
+![](/images/juegos-pc-baratos-red-dead-2.jpg)
 
 ### Gameplay
 
@@ -44,7 +44,7 @@ Ambientado en un mundo abierto y jugado desde una perspectiva en primera o terce
 
 Al pensar en las posibilidades de viajar de A a B en el Salvaje Oeste, todos saben que un caballo es algo necesario. Para obtener uno para ti mismo, debes o bien domesticar uno salvaje, entrenar el que hayas comprado o... puede robar uno. Piensa en tu elección, ya que hay pocas razas que tengan bonificaciones diferentes. Cuidar de tu caballo también te brinda beneficios y aumenta el vínculo con el animal. Además de los caballos, puedes usar carruajes o trenes. Como miembro de una pandilla, robar es tu trabajo, así que roba durante el trayecto del tren amenazando a los pasajeros y haciéndote con sus posesiones.
 
-![Horse riding in Red Dead Redemption 2](https://images.g2a.com/newlayout/880x400/1x1x0/3963be8b0b63/5dc4178346177c2dd4220592)
+![](/images/juegos-pc-baratos-red-dead-22.jpg)
 
 ### Encuentros aleatorios
 
@@ -89,4 +89,3 @@ Ten cuidado al cometer delitos, ya que cuando alguien lo ves, inmediatamente lo 
 * Memory12 GB RAM
 * Disk space150 GB available space
 * SystemWindows 10 - April 2018 Update (v1803)
-* 
