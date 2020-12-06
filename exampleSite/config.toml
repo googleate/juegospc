@@ -13,15 +13,17 @@ weight = 1
 name = "Acción"
 parent = "Homepage"
 url = "https://juegospcbaratos.com/categories/acci%C3%B3n/"
+weight = "1"
 [[menu.main]]
 name = "Aventura"
 parent = "Homepage"
 url = "https://juegospcbaratos.com/categories/aventura/"
+weight = "1"
 [[menu.main]]
 hasChildren = ""
 name = "RPG"
 url = "https://juegospcbaratos.com/categories/rpg/"
-weight = ""
+weight = "1"
 [[menu.main]]
 name = "Ofertas"
 url = "about"
