@@ -6,7 +6,6 @@ description: Assassins Creed Valhalla copia digital para juegos de PC baratos Ub
 type: featured
 image: "/images/juegos-pc-valhalla-post.jpg"
 categories:
-- RPG
 - Aventura
 tags:
 - Assassins
