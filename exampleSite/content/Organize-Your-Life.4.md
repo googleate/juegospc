@@ -50,9 +50,9 @@ Contenido descargable gratuito – el contenido descargable The Last Breath es g
 
 Soporte asegurado – desde el lanzamiento de Dead by Daylight varios contenidos descargables han salido al público, y los desarrolladores aseguran la mejor experiencia.
 
-Requerimientos del sistema
+### Trailer oficial
 
-Below are the minimum and recommended system specifications for **Dead by Daylight (PC) - Steam Key - GLOBAL**. Due to potential programming changes, the minimum system requirements for **Dead by Daylight (PC) - Steam Key - GLOBAL** may change over time.**Windows**
+[![](/images/juegos-pc-dead-by-daylight-trailer.jpg)](https://www.youtube.com/watch?v=JGhIXLO3ul8&t=58s "Trailer")
 
 ### Requisitos mínimos
 
