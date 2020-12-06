@@ -1,56 +1,39 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-4.jpg"
-categories: 
-  - "Article"
+title: Godfall 49,99€
+date: 
+description: 'Godfall juego de RPG y aventura para PC '
+type: featured
+image: "/images/juegos-pc-godfall-post.jpg"
+categories:
+- Aventura
+- RPG
 tags:
-  - "Photos"
-  - "Article"
+- godfall
+- rpg
+
 ---
+![](/images/pedir-boton-1.png)
 
+Salvar a Aperion, eres el último de los caballeros de Valorian, maestros del combate equipados con una armadura legendaria llamada Valorplates. Asciende en Godfall, el primer juego de rol de acción cuerpo a cuerpo, saqueador y asesino de su tipo.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Embárcate en la aventura en un juego de rol de acción y fantasía que utiliza el combate cuerpo a cuerpo en tercera persona de alto impacto para involucrar a los jugadores mientras buscan botines, se colocan conjuntos de armaduras legendarias y derrotan a enemigos feroces. Enfréntate a misiones desafiantes que te recompensarán con un botín que te hará girar la cabeza mientras derrotas a los ejércitos que te enfrentan.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+> Plataforma: Epic Games
+>
+> **Precio: 49,99€**
+>
+> País: España
+>
+> Dispositivo: PC Europa
+>
+> Copia Digital del juego Original
 
+[![](/images/juegos-pc-godfall-trailer.jpg)]()
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+### Puntos fuertes
 
+Juego de rol de acción: Counterplay Games está innovando con Godfall para brindar una nueva versión del combate de acción en tercera persona, recompensando el juego ofensivo basado en habilidades y haciendo que cada golpe importe.
 
-![](../images/post-img.jpg)
+**Looter-slasher:** enfréntate a desafiantes misiones que alimentan tu anhelo por la siguiente mejor pieza en la construcción de tu personaje y acumula un botín que tiene un impacto significativo en el juego.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
+**Mejor juntos:** hazlo solo o juega con quien quieras en cualquier momento. Los jefes y enemigos se han diseñado pensando en el modo cooperativo, con habilidades especiales que contrarrestan a los múltiples combatientes que atacan desde diferentes ángulos.
