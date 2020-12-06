@@ -18,13 +18,13 @@ tags: []
 
 La **historia de GTA 5** gira en torno a tres personajes jugables: el ladrón retirado - Michael, su compañero de crimen impulsivo y mentalmente desequilibrado - Trevor, y Franklin, que trabajaba como embargador de coches de lujo y con pasado en pandillas. Michael cortó todos los lazos con el pasado y vivió una vida feliz bajo el programa de protección de testigos, pero la paz no duró demasiado, ya que accidentalmente se metió bajo la piel del líder del Cartel de Madrazo. Pagar la deuda de Michael llamó la atención de Trevor, quien decidió reunirse con su viejo amigo.
 
-> Plataforma: Rockstar Key
+> Plataforma: Rockstar Social Club
 >
 > **Precio: 9,99€**
 >
-> País: España
+> Región: Global
 >
-> Dispositivo: PC Europa
+> Dispositivo: PC
 >
 > Copia Digital del juego Original
 
