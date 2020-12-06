@@ -58,7 +58,7 @@ Para sobrevivir, los jugadores deben comer, y la caza de alimentos y otros mater
 
 En **Red Dead Redemption 2**, es crucial cuidar el bienestar de tu personaje, ya que algunas de sus necesidades influyen en el sistema llamado "núcleos" que afecta la regeneración de la resistencia. Recuerda usar ropa adecuada que se ajuste al tiempo climático y comer correctamente, ya que demasiada cantidad causa obesidad. Cuida tu imagen, **aféitate la barba o córtate el pelo** si es necesario. Recuerda que el juego es muy realista, incluso cuando se trata de detalles tan pequeños como el crecimiento del cabello. Además, debes asegurarte de que tus armas estén en buenas condiciones, ya que también requieren mantenimiento.
 
-![Random encounter with bandits in RDR2](https://images.g2a.com/newlayout/880x400/1x1x0/2a523b672efd/5dc417837e696c2f7d384572)
+[![](/images/juegos-pc-baratos-red-dead-23.jpg)](https://www.youtube.com/watch?v=sQ0MckVKxKQ "Trailer")
 
 ### Experiencia
 
