@@ -1,5 +1,5 @@
 ---
-title: Dead by deadlight 9,99€
+title: Dead by Daylight 9,99€
 date: 
 description: Dead by deadlight juego para PC plataforma Steam versión digital del
   juego original
