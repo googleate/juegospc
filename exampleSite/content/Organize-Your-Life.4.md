@@ -69,21 +69,3 @@ Soporte asegurado – desde el lanzamiento de Dead by Daylight varios contenidos
 * Memory8 GB RAM
 * Disk space15 GB
 * System64-bit Operating Systems (Windows 7, Windows 8 & Windows 8.1)
-
-#### Idioma
-
-UK
-
-## Age restrictions
-
-![ESBR Mature](https://images.g2a.com/newlayout/46x46/1x1x0/b7388b2a648c/595d133b5bafe3df7b21c4c7)
-
-![USK 18](https://images.g2a.com/newlayout/46x46/1x1x0/949ef73988e9/595d14d6ae653a2bd122ab56)
-
-Este producto contiene elementos de
-
-![Fear](https://images.g2a.com/newlayout/46x46/1x1x0/7888333d1843/595d147bae653a38a767a162)
-
-![Online](https://images.g2a.com/newlayout/46x46/1x1x0/f523b006078f/595d14a05bafe3efa030c5d4)
-
-![Violence](https://images.g2a.com/newlayout/46x46/1x1x0/640bf94781dc/5c79105dae653aca9f0cd3d2)
