@@ -5,33 +5,32 @@ summaryLength = "12"
 theme = "parsa-hugo"
 title = "Juegos PC baratos"
 [[menu.main]]
-hasChildren = true
-name = "Categorías"
-url = ""
-weight = 1
-[[menu.main]]
-name = "Acción"
-parent = "Homepage"
-url = "https://juegospcbaratos.com/categories/acci%C3%B3n/"
-weight = "1"
-[[menu.main]]
-name = "Aventura"
-parent = "Homepage"
-url = "https://juegospcbaratos.com/categories/aventura/"
-weight = "1"
-[[menu.main]]
-hasChildren = ""
 name = "RPG"
+parent = "Categorías"
 url = "https://juegospcbaratos.com/categories/rpg/"
-weight = "1"
-[[menu.main]]
-name = "Ofertas"
-url = "about"
-weight = "2"
+weight = 3
 [[menu.main]]
 name = "Contacto"
 url = "contact"
 weight = 3
+[[menu.main]]
+name = "Ofertas"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Aventura"
+parent = "Categorías"
+url = "https://juegospcbaratos.com/categories/aventura"
+weight = 2
+[[menu.main]]
+name = "Acción"
+parent = "Categorías"
+url = "https://juegospcbaratos.com/categories/acci%C3%B3n/"
+weight = 1
+[[menu.main]]
+hasChildren = true
+name = "Categorías"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
