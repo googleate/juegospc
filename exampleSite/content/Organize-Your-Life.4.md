@@ -10,6 +10,8 @@ categories:
 tags: []
 
 ---
+![](/images/pedir-boton-1.png)
+
 Dead by Daylight (PC) es un juego multijugador de supervivencia y terror asimétrico. Un grupo de hasta cuatro supervivientes intenta escapar de un lugar de pesadilla donde un asesino con poderes sobrenaturales quiere sacrificarlos en nombre de un dios malvado.Dead by Daylight os permite jugar en los dos lados de la clásica historia de película de terror, y saborear respectivamente el pavor y el poder de supervivientes y asesinos.
 
 **Cinco supervivientes**
