@@ -14,7 +14,7 @@ tags:
 ---
 ![](/images/pedir-boton-1.png)
 
-Salvar a Aperion, eres el último de los caballeros de Valorian, maestros del combate equipados con una armadura legendaria llamada Valorplates. Asciende en Godfall, el primer juego de rol de acción cuerpo a cuerpo, saqueador y asesino de su tipo.
+Salvar a Aperion es tu misión, eres el último de los caballeros de Valorian, maestros del combate equipados con una armadura legendaria llamada Valorplates. Asciende en Godfall, el primer juego de rol de acción cuerpo a cuerpo, saqueador y asesino de su tipo.
 
 Embárcate en la aventura en un juego de rol de acción y fantasía que utiliza el combate cuerpo a cuerpo en tercera persona de alto impacto para involucrar a los jugadores mientras buscan botines, se colocan conjuntos de armaduras legendarias y derrotan a enemigos feroces. Enfréntate a misiones desafiantes que te recompensarán con un botín que te hará girar la cabeza mientras derrotas a los ejércitos que te enfrentan.
 
