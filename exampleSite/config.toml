@@ -23,11 +23,11 @@ name = "RPG"
 url = "https://juegospcbaratos.com/categories/rpg/"
 weight = ""
 [[menu.main]]
-name = "About"
+name = "Ofertas"
 url = "about"
-weight = 2
+weight = "2"
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 url = "contact"
 weight = 3
 [outputs]
