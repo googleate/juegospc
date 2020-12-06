@@ -28,6 +28,8 @@ Embárcate en la aventura en un juego de rol de acción y fantasía que utiliza 
 >
 > Copia Digital del juego Original
 
+### Tailer de gameplay
+
 [![](/images/juegos-pc-godfall-trailer.jpg)]()
 
 ### Puntos fuertes
