@@ -7,7 +7,7 @@ title = "Juegos PC baratos"
 [[menu.main]]
 hasChildren = true
 name = "Categorías"
-url = "https://juegospcbaratos.com/categories/"
+url = ""
 weight = 1
 [[menu.main]]
 name = "Acción"
