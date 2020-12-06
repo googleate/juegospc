@@ -1,14 +1,13 @@
 ---
-title: Charming Evening Field
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: GTA V Premium + Online 9,99€
+date: 
+description: Grand Theft Auto GTA V Versión premium de historia + online para plataforma
+  Rockstar PC
 type: post
 image: "/images/juegos-pc-gta-v-premium-1.jpg"
 categories:
-- Food
-tags:
-- Photos
-- Food
+- Acción
+tags: []
 
 ---
 ![](/images/pedir-boton-1.png)
