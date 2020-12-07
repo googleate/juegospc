@@ -2,7 +2,6 @@
 categories = ["Acción"]
 date = nil
 description = "Mortal Kombat 11 Edicion Ultimate para plataforma Steam en PC"
-draft = true
 image = "/images/juegos-pc-mortal-kombat.jpg"
 tags = []
 title = "Mortal Kombat 11 Ultimate Edition 39,99€"
