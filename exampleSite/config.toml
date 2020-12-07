@@ -1,7 +1,7 @@
 baseurl = "https://juegospcbaratos.com/"
 languageCode = "es-es"
-paginate = "12"
-summaryLength = "12"
+paginate = "27"
+summaryLength = "27"
 theme = "parsa-hugo"
 title = "Juegos PC baratos"
 [[menu.main]]
