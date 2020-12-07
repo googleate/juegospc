@@ -1,9 +1,9 @@
 +++
 categories = ["Acción"]
 date = nil
-description = "Grand Theft Auto GTA V Versión premium de historia + online para plataforma Rockstar PC"
+description = "Mortal Kombat 11 Edicion Ultimate para plataforma Steam en PC"
 draft = true
-image = "/images/juegos-pc-gta-v-premium-1.jpg"
+image = "/images/juegos-pc-mortal-kombat.jpg"
 tags = []
 title = "Mortal Kombat 11 Ultimate Edition 39,99€"
 type = "post"
@@ -11,15 +11,17 @@ type = "post"
 +++
 ![](/images/pedir-boton-1.png)
 
-**Grand Theft Auto V** es un videojuego de acción y aventura desarrollado por Rockstar North y publicado en 2013 por Rockstar Games. El juego se centra sobre todo en los atracos, persecuciones policiales, tiroteos y el logro de los objetivos, incluso si eso significa infringir la ley de vez en cuando. Premium Online Edition es un paquete conveniente que reúne tanto el juego básico de GTA V como Criminal Enterprise Starter Pack para ayudarte a comenzar y desarrollar tu negocio criminal de modo online mucho más rápido.
+Mortal Kombat 11 es un juego de lucha 2.5D, desarrollado por NetherRealm Studio. Es el undécimo título principal de la serie Mortal Kombat, conocido por sus efectos visuales sangrientos, violencia y jugabilidad brutal. MK 11 se ejecuta en Unreal Engine 3.
 
-### Historia
+### Como se Juega
 
-La **historia de GTA 5** gira en torno a tres personajes jugables: el ladrón retirado - Michael, su compañero de crimen impulsivo y mentalmente desequilibrado - Trevor, y Franklin, que trabajaba como embargador de coches de lujo y con pasado en pandillas. Michael cortó todos los lazos con el pasado y vivió una vida feliz bajo el programa de protección de testigos, pero la paz no duró demasiado, ya que accidentalmente se metió bajo la piel del líder del Cartel de Madrazo. Pagar la deuda de Michael llamó la atención de Trevor, quien decidió reunirse con su viejo amigo.
+Mortal Kombat 11 conserva muchas de las mecánicas de juego de Mortal Kombat 10, incluidas Fatalities y Brutalities, movimientos finales brutalmente gráficos. Cada personaje tiene una fatalidad específica, que hace referencia a su personalidad de alguna manera. El ex estrella de cine de acción Johnny Cage golpea a sus oponentes con una figura dorada de sí mismo, el pistolero Erron Black usa sus revólveres para acribillar a los enemigos con balas, y así sucesivamente.
 
-> Plataforma: Rockstar Social Club
+![](/images/juegos-pc-mortal-kombat2.jpg)
+
+> Plataforma: Steam
 >
-> **Precio: 9,99€**
+> **Precio: 39,99€**
 >
 > Región: Global
 >
@@ -27,77 +29,65 @@ La **historia de GTA 5** gira en torno a tres personajes jugables: el ladrón re
 >
 > Copia Digital del juego Original
 
-![](/images/juegos-pc-gtav.jpg)
+![](/images/juegos-pc-mortal-kombat3.jpg)
 
-### Gameplay / cómo se juega
+MK XI presenta varias características nuevas. Uno de ellos es Golpe fatal, un movimiento especial que causa una gran cantidad de daño, sin embargo, está disponible solo después de que la salud del jugador cae por debajo del 30%. Otra nueva mecánica es Krushing Blow. Actúa de manera similar a las técnicas de rayos X del juego anterior, donde ciertos movimientos desencadenan el efecto de cámara lenta y muestran con detalle gráfico el daño causado a los órganos y huesos del enemigo. Krushing Blow se puede usar solo una vez por duelo, por lo que los jugadores deben usarlo con prudencia. Flawless Block permite al jugador contraatacar después de un bloqueo cronometrado con precisión.
 
-GTA 5 es un juego de acción y aventura que se juega desde una perspectiva en primera y tercera persona. El juego ofrece un gran mundo abierto para explorar. El mundo vive su propia vida: las carreteras de la ciudad están llenas de automóviles y peatones con los que se puede interactuar. Una gran cantidad de libertad te permite violar fácilmente la ley robando vehículos o atacando a las personas. Eso sí, hacerlo atraerá la atención de la policía local.
+El juego presenta el sistema Gear, tomado de Injustice 2 de Netherrealm Studio. Permite cambios cosméticos en la vestimenta de los personajes. El sistema de variación de Mortal Kombat X regresa, lo que permite a los jugadores personalizar el conjunto de movimientos de su luchador, eligiendo entre una lista predeterminada de variaciones.
 
-El juego presenta un ciclo completo de día y noche y **ofrece varias actividades paralelas en las que puedes participar sin intervenir en las misiones principales de la historia**. Entre las cuales, puedes encontrar jugar golf, tenis, ir al cine o navegar por Internet en el juego.
+### Historia y personajes
 
-### Grand Theft Auto V: Premium Online Edition
+La trama de Mortal Kombat 11 comienza después de los eventos de X, cuando Cassie Cage derrotó al dios anciano renegado Shinnok. Raiden, el protector de Earthrealm, que se ha corrompido por el poder de la Cámara Jinsei, tortura a Shinnok y anuncia su objetivo de destruir a los enemigos de la Tierra antes de que puedan atacar. Las trasgresiones de Raiden y el desafío de Earthrealm enfurecen a Kronika, la Guardiana del Tiempo que decide poner fin a los planes del corrupto Dios del Trueno.
 
-**Premium Online Edition** contiene el juego básico Grand Theft Auto V, así como el paquete de inicio Criminal Enterprise, diseñado para acelerar el desarrollo de una carrera en línea para los recién llegados. El Starter Pack agrega a tu cuenta varios contenidos por un valor superior a 10 millones de efectivo. A continuación, puedes encontrar una amplia lista:
+**La lista de personajes está llena de héroes que regresan y recién llegados por igual e incluye personajes como:**
 
-**GTA $ 1.000.000 Bonus Cash**
+Geras: sirviente leal de Kronika, la Guardiana del Tiempo. Sus poderes le permiten manipular el flujo del tiempo y usarlo contra sus enemigos.
 
-**Propiedades:**
+Cassie Cage: hija de Johnny Cage y Sonya Blade, así como Sargento de las Fuerzas Especiales, Cassie combina la velocidad y agilidad de su padre con la afinidad de su madre por las armas.
 
-* Oficina ejecutiva de Maze Bank West
-* Paleto Forest Gunrunning Bunker
-* Fábrica de efectivo falsificada en Señora Deser
-* Gran Casa de Club Chaparral Biker
-* Apartamento en 1561 San Vitas Street
-* Garaje para 10 coches en 1337 Exceptionalists Way
+Erron Black: otro de los guerreros y pistoleros de Kotal Kahn del Viejo Oeste. Erron Black usa su habilidad con revólveres con precisión mortal.
 
-**Vehículos:**
+Jacqui Briggs: amiga de Cassie y miembro de las Fuerzas Especiales, Jacqui es la hija de Jax, ex socia de Sonya Blade. En combate, usa un par de guanteletes electrónicos para mejorar sus habilidades de kickboxing y disparar ráfagas de plasma.
 
-* Dune FAV
-* Maibatsu Frogger
-* Enus Windsor
-* Obedecer a Omnis
-* Coquette Classic
-* Turismo R
-* Pegassi Vortex
-* Huntley S
-* Chopper Zombie Occidental
-* Banshee
+Johnny Cage: ex estrella de cine de acción y esposo de Sonya Blade. Criado por un culto con el objetivo de engendrar dioses, Johnny posee algunos poderes sobrenaturales, como un escudo de energía, que mejora sus habilidades naturales de lucha.
 
-**Armas, ropa y tatuajes:**
+Kitana: princesa de Edenia e hijastra de Shao Khan. Una vez leal, traicionó al Emperador y unió fuerzas con Liu Kang para detenerlo. Lucha usando ventiladores de palas, que funcionan perfectamente tanto en distancias cortas como largas.
 
-* Lanzagranadas compacto
-* Fusil tirador
-* Fusil compacto
-* Carrera de acrobacias y trajes de importación / exportación, tatuajes de moteros
+Kotal Kahn: nuevo Emperador del Outworld, originario del reino de Osh-Tekk. A diferencia de los emperadores anteriores, no le interesa conquistar, solo mantiene una posición fuerte en su propio reino.
 
-### Puntos clave
+Kung Lao y Liu Kang, provenientes de la misma línea de guerreros Shaolin, Kung Lao, y su descendiente, Liu Kang, son feroces guerreros y defensores de Earthrealm. La técnica especial de Kung Lao es usar su sombrero con un borde afilado como arma arrojadiza. El poder de Liu Kang está conectado al fuego, que puede invocar para ayudarlo en el combate.
 
-* Impulsa tu negocio online con contenido adicional valorado en más de 10 millones de efectivo en el juego
-* Explora el enorme mundo abierto viviendo tu propia vida
-* Investiga nuevas mejoras para vehículos armados y ser así, más poderosos
-* Participa en emocionantes misiones junto con tus amigos para ganar dinero y reputación
-* Conduce cientos de vehículos, incluidos los disponibles exclusivamente en modo online
+Raiden: Dios del Trueno y protector del Reino de la Tierra, fue corrompido por la Cámara Jinsei. Utiliza los poderes del rayo para aturdir y destruir a sus enemigos.
 
-**¡Advertencia! Este producto (GTA 5) es para Rockstar Game Launcher (Rockstar Social Club)**, NO PUEDE ser activado y jugado en **la plataforma Steam.**  
-**Este producto solo funciona en PC.**
+Scorpion y Sub-Zero: dos guerreros ninja de clanes rivales. Scorpion es una criatura infernal que busca venganza contra aquellos que destruyeron sus clanes. Su estilo se basa en el fuego y el arma característica del “escorpión”. Los poderes de hielo de Sub-Zero le permiten congelar a los oponentes en su lugar y hacerlos pedazos. Ambos ninjas tienen la distinción de aparecer en todas las generaciones de juegos MK.
 
-## Requerimientos del sistema
+Las primeras impresiones de MK 11 fueron muy positivas. Los críticos quedaron impresionados con las mejoras realizadas desde MK X, algunas de las cuales fueron influenciadas por Injustice 2. El juego fue elogiado por su jugabilidad y los ataques especiales como la función Krushing Blow. Los jugadores también estaban satisfechos con la lista clásica de personajes de los juegos anteriores.
 
-Below are the minimum and recommended system specifications for **Grand Theft Auto V: Premium Online Edition (PC) - Rockstar Key - GLOBAL**. Due to potential programming changes, the minimum system requirements for **Grand Theft Auto V: Premium Online Edition (PC) - Rockstar Key - GLOBAL** may change over time.**Windows**
+Mortal Kombat 11 **Ultimate Edition** Incluye:
+
+* Mortal Kombat 11 Base Game
+* Mortal Kombat 11 Kombat Pack 1
+* Mortal Kombat 11 - Kombat Pack 2
+* Mortal Kombat 11 - Aftermath Expansion
+
+Fecha de lanzamiento: **2020-11-17**
 
 ### Requisitos mínimos
 
-* ProcessorIntel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz
-* GraphicsNVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)
-* Memory4 GB RAM
-* Disk space72 GB available space
-* SystemWindows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
-* Other100% DirectX 10 compatible
+* ProcessorIntel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHz
+* GraphicsNVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270
+* Memory8 GB RAM
+* Disk space-
+* System64-bit Windows 7 / Windows 10
+* Other-
 
 ### Requisitos recomendados
 
-* ProcessorIntel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)
-* GraphicsNVIDIA GTX 660 2GB / AMD HD 7870 2GB
+* ProcessorIntel Core i5-2300, 2.8 GHz / AMD FX-6300, 3.5GHz or AMD Ryzen™ 5 1400, 3.2 GHz
+* GraphicsNVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570
 * Memory8 GB RAM
-* Disk space72 GB available space
-* SystemWindows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1
+* System64-bit Windows 7 / Windows 10
+
+### Idiomas
+
+BR, CN, DE, ES, FR, IT, PL, RU, UK, AR
